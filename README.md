@@ -27,7 +27,7 @@ Wweekly course materials will be uploaded here prior to each session. To follow 
 | 24.06.  | Data frame handling I      | 29.06. - 11.59 pm  |
 | 01.07.  | Data frame handling II - Hands on      | 06.07. - 11.59 pm  |
 | 08.07. | Recap & visualization            | -  |
-| 15.07.  | PsychoPy I           | Final report until\n18.07. - 11.59 pm  |
+| 15.07.  | PsychoPy I           | Final report until<br/>18.07. - 11.59 pm  |
 | 22.07.  | PsychoPy I           | -  |
 
 
