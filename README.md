@@ -1,6 +1,6 @@
 # Introduction to Python for Psychologists (summer term 2021)
 
-This repo contains an introduction to open and reproducible scientific programming with Python held at the University of Landau, Department of Psychology by Rebecca Mayer. 
+This repo contains an introduction to open and reproducible scientific programming with Python held at the University of Landau, Department of Biological Psychology by Rebecca Mayer. 
 
 The course is intended for students who are new to programming. 
 
